@@ -1,3 +1,11 @@
+# (tpg) LICENSE ISSUE !!!
+# looks like viber license does not say 
+# anything whether it allowed or not to 
+# redistribute contents of *.deb file in a rpm for or any other
+# After some e-mails exchange with Viber support
+# answer was strict, and Viber does not allow NOW any kind of redistribution
+# Tings may change in future...
+
 Name:			viber
 Summary:		Viber Messenger
 Version:		4.2
