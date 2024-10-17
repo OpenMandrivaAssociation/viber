@@ -12,7 +12,7 @@ Version:		4.2
 Release:		1
 Group:			Networking/Instant messaging
 License:		Proprietary
-URL:			http://www.viber.com/products/linux
+URL:			https://www.viber.com/products/linux
 Source0:        http://download.cdn.viber.com/cdn/desktop/Linux/%{name}.deb
 BuildRequires:	binutils
 BuildRequires:	tar
